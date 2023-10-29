@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\web",
+    "\\web\\WebApplication1",
+    "\\web\\WebApplication1\\WebApplication1",
+    "\\web\\WebApplication1\\WebApplication1\\Data",
+    "\\web\\WebApplication1\\WebApplication1\\Models",
+    "\\web\\WebApplication1\\WebApplication1\\Views",
+    "\\web\\WebApplication1\\WebApplication1\\Views\\Home",
+    "\\web\\WebApplication1\\WebApplication1\\Views\\Hotel",
+    "\\web\\WebApplication1\\WebApplication1\\Views\\Shared"
+  ],
+  "SelectedNode": "\\web\\WebApplication1\\WebApplication1\\Views\\Shared\\Header.cshtml",
+  "PreviewInSolutionExplorer": false
+}
